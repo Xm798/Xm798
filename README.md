@@ -1,7 +1,7 @@
   <div align="center">
-    <img class="circle--square" width="80" height="80" src="./assets/icon.png" />
+    <img width="80" height="80" src="./assets/icon.png" />
   <p><b>👋 Hi, I'm Cyrus, a student from China.</b></p>
-  <table style="border: none;">
+  <table style="border:0;">
  <tr>
   <td>🌱 Learning Linux, Python & Golang.<br>😋 Interested in photography, exploring new things & travelling.<br>⚡️ A fan of Hatsune Miku & Luo Tianyi。<br>
   <td> 
